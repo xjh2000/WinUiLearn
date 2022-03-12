@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimeVIew (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TimeVIew (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
